@@ -1,1 +1,1 @@
-<p align="center"><img alt="Doubled Logo" src="https://lh4.googleusercontent.com/XQJfaQ8yyFrZkz8L56C51Iz6ELQFUJ7JbGbLq5s_9qrOvULsBS5q1wT_LdaTWcf93YC1xQhtHcJuehHFrAy1shpZJUynasqp6IRoAj3G-LFAD9Bg9Prz9_L-8fwij8fgrQ=w1280"/></p>
+<p align="center"><img alt="Doubled Logo" src="https://github.com/coineomod/pvzfrostbite/blob/main/Logo.png?raw=true"/></p>
