@@ -3051,7 +3051,7 @@ Click to resume to continue.
 Resume
 
 [INTRO_PRESENTS]
-PopCap Games Presents
+Coineo Presents
 
 [CANT_USE_CODE]
 You don't have a tall enough Tree of Wisdom for that!
